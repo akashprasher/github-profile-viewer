@@ -8,7 +8,6 @@
 
 This repo contains a project build with React in which users can search for a Github user and see information of their profile.
 
-##### [Click here to try the live demo][0]
 ---
 
 ### Installation
@@ -17,7 +16,7 @@ This repo contains a project build with React in which users can search for a Gi
 
 * Then clone this project:
 
-`git clone https://github.com/MarioTerron/github-profile-react.git`
+`git clone https://https://github.com/akashprasher/github-profile-viewer`
 
 
 ### Run this project:
@@ -29,5 +28,4 @@ All dependencies will be installed automatically.
 ### API
 * [Github][1]
 
-[0]: http://github-profile-react.surge.sh/
 [1]: https://developer.github.com/v3/
